@@ -10,7 +10,7 @@ The primary objective of this project is to demonstrate practical knowledge of w
 This project serves as a foundation for building more advanced systems with additional features like authentication, data management, and cloud-based deployment.
 
 ## Architecture Diagram
-![](./img/Architecture.png)
+![](./Architecture.png)
 ### Description:
  1. User / Client (Browser)
 This is the starting point of your system.
@@ -53,34 +53,34 @@ Config files
  Nginx serves files from here, and PHP reads from here.
 ## Steps 
 #### Step 1: Lunch instance with SSH and HTTP security Groups
-![](./img/Screenshot%201.png)
+![](./Screenshot%201.png)
 
 #### Step 2: Create a LEMP.sh file and write a scripting to run all cammand at a time
-![](./img/Screenshot%202.png)
+![](./Screenshot%202.png)
 #### Step 3: Here we Write a Script 
-![](./img/Screenshot%203.png)
+![](./Screenshot%203.png)
 #### Step 4: Run this file with cammand bash LEMP.sh -> for execute the file 
-![](./img/Screenshot%204.png)
+![](./Screenshot%204.png)
 #### I was already install it that's why it shows completed
-![](./img/Screenshot%205.png)
+![](./Screenshot%205.png)
 #### Step 5: Here we have to create a signup.html for get data from student in the form
-![](./img/Screenshot%206.png)
-![](./img/Screenshot%207.png)
+![](./Screenshot%206.png)
+![](./Screenshot%207.png)
 
 #### Step 6: After that i have to create a PHP file to get the jason data from signup.html and send it to the database.In this submit.php we are creating a database connection at // Database Connection
 
-![](./img/Screenshot%208.png)
-![](./img/Screenshot%2010.png)
-![](./img/Screenshot%209.png)
+![](./Screenshot%208.png)
+![](./Screenshot%2010.png)
+![](./Screenshot%209.png)
 
 #### Step 7:  Here we created a database and table of user to store info
-![](./img/Screenshot%2011.png)
-![](./img/Screenshot%2012.png)
+![](./Screenshot%2011.png)
+![](./Screenshot%2012.png)
 
 #### Here we go our signup.html->submit.php->FCT Database 
-![](./img/Screenshot%2013.png)
-![](./img/Screenshot%2014.png)
-![](./img/Screenshot%2015.png)
+![](./Screenshot%2013.png)
+![](./Screenshot%2014.png)
+![](./Screenshot%2015.png)
 
 ## Summary
 The Student Registration System is built using the LEMP stack, where the user interacts with the application through a web browser. The request is handled by Nginx, which serves static content and forwards dynamic requests to PHP. PHP processes the data, applies business logic, and communicates with MySQL to store or retrieve student information. Finally, the response is sent back to the user through Nginx.
