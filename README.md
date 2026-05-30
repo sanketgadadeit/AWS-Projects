@@ -12,7 +12,6 @@ When users access the application, the **Classic Load Balancer** distributes inc
 
 ## Architecture Diagram
 
-Add your architecture image here.
 ![](./Architecture.drawio.png)
 
 # Architecture Explanation
@@ -166,6 +165,7 @@ Launch **3 EC2 instances**.
 | AMI | Amazon Linux  |
 | Instance Type | t3.micro |
 | Count | 3 |
+
 ![alt text](<Screenshot (222).png>)
 ### Security Group 
 Select Security Group that allows HTTP and SSH port we have to use same SG on Load Balancer
