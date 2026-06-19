@@ -47,7 +47,7 @@ The application follows a **3-Tier Architecture**:
 
 ##  Architecture Diagram
 
-![alt text](image-1.png)
+![alt text](Architecture.png)
 ---
 ## Architecture Explanation
 
