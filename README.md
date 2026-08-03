@@ -16,14 +16,47 @@ To view my projects, please follow these steps:
 3. Open the **README.md** file inside that branch for project details, architecture, commands, and setup instructions.
 
 ## 📂 Available Projects
+🔹LambdaZip
+sanketgadadeit
 
-🔹 AWS EC2 Setup  
-🔹 EBS Volume Attachment & Mounting  
-🔹 Static Website Deployment on Nginx  
-🔹 LAMP Stack Setup  
-🔹 WordPress Deployment on AWS  
-🔹 Student Registration Form Deployment  
-🔹 And more projects...
+🔹Migration-Traditional-DB-To-RDS
+sanketgadadeit
+
+🔹SnapGuard-Event-Driven-EC2-Snapshot-Automation-with-AWS-Lambda
+sanketgadadeit
+
+🔹VPC-Shield-Secure-&-Scalable-Java-Based-Application-in-three-tier-architecture
+sanketgadadeit
+
+🔹Microservices-Application-using-ALB-and-ASG
+sanketgadadeit
+ 
+🔹Microservices-Application-Deployment-Using-Application-Load-Balancer
+sanketgadadeit
+
+🔹Monolithic-Application-on-AWS-Using-Classic-Load-Balancer
+sanketgadadeit
+
+🔹AWS-EBS-Mounting-mini-project
+sanketgadadeit
+ 
+
+🔹Deployment-of-Dynamic-website-of-student-registration-on-LEMP
+sanketgadadeit
+
+🔹Deployment-Of-Wordpress-Website-On-EC2
+sanketgadadeit
+ 
+
+🔹Deployment-of-static-website-on-apache-using-amazon-linux
+sanketgadadeit
+
+🔹Deployment-of-Static-Website-On-Nginx-using-Ubuntu
+sanketgadadeit
+ 
+
+🔹Deployment-of-Nginx-On-Loacalmachine
+
 
 ## 🛠️ Technologies Used
 
